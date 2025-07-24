@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mookjsi.github.io/sitemap.xml
