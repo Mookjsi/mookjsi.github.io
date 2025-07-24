@@ -7,20 +7,52 @@
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
     <copyright>2025 Jungmook Kang</copyright>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mookjsi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>About Me</title>
       <link>https://mookjsi.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/about/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://mookjsi.github.io/posts/my-first-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mookjsi.github.io/posts/my-first-post/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Yonsei University&lt;/strong&gt;, Seoul, Korea
+&lt;ul&gt;
+&lt;li&gt;Senior @ Dept. of Applied Statistics&lt;/li&gt;
+&lt;li&gt;GPA: 4.16/4.3 (Overall), 4.24/4.3 (Statistics)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Statistical Machine Learning&lt;/li&gt;
+&lt;li&gt;Large Language Model&lt;/li&gt;
+&lt;li&gt;Retrieval Method&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;research-experience&#34;&gt;Research Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Undergraduate Researcher&lt;/strong&gt;, ITML @ Yonsei (Jan. 2025 – Jun. 2025)
+&lt;ul&gt;
+&lt;li&gt;Conducting undergraduate research under the supervision of Prof. Jy-yong Sohn.&lt;/li&gt;
+&lt;li&gt;Engaged in ongoing projects related to RAG.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Programming:&lt;/strong&gt; R, Python, Frontend, Git, MATLAB&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Korean (Native), English (Intermediate), Chinese (Beginner)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;extracurricular-activities&#34;&gt;Extracurricular Activities&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;YBIGTA&lt;/strong&gt; (Big Data Society) – DS Team Member (Mar. 2025 – Present)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;YBIGTA&lt;/strong&gt; (Big Data Society) – Newbie Project Team Leader (Jan. 2025 – Feb. 2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SVAN&lt;/strong&gt; (Rock Band) (2024 – Present)&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
