@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://mookjsi.github.io/en/sitemap.xml</loc>
-    
-      <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://mookjsi.github.io/fr/sitemap.xml</loc>
-    
-      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://mookjsi.github.io/fa/sitemap.xml</loc>
-    
-      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://mookjsi.github.io/about/</loc>
+  </url><url>
+    <loc>https://mookjsi.github.io/posts/my-first-post/</loc>
+  </url><url>
+    <loc>https://mookjsi.github.io/archives.fr/</loc>
+  </url><url>
+    <loc>https://mookjsi.github.io/archives/</loc>
+  </url><url>
+    <loc>https://mookjsi.github.io/categories/</loc>
+  </url><url>
+    <loc>https://mookjsi.github.io/</loc>
+  </url><url>
+    <loc>https://mookjsi.github.io/posts/</loc>
+  </url><url>
+    <loc>https://mookjsi.github.io/search/</loc>
+  </url><url>
+    <loc>https://mookjsi.github.io/search.fr/</loc>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/</loc>
+  </url>
+</urlset>
