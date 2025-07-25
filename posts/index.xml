@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on MookStudy</title>
+    <title>Blog on MookStudy</title>
     <link>https://mookjsi.github.io/posts/</link>
-    <description>Recent content in Posts on MookStudy</description>
+    <description>Recent content in Blog on MookStudy</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
     <copyright>2025 Jungmook Kang</copyright>
     <lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mookjsi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Paper Review: Promptriever - Instruction-Trained Retrievers</title>
+      <title>Promptriever - Instruction-Trained Retrievers</title>
       <link>https://mookjsi.github.io/posts/paper-review-promptriever/</link>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-promptriever/</guid>
-      <description>Here&amp;rsquo;s my full 35-slide review of the ICLR 2025 paper, Promptriever. In this post, I break down the core concepts, training methods, and results of a new retriever that&amp;rsquo;s trained to follow natural language instructions.</description>
+      <description>A review of the ICLR 2025 paper, Promptriever. In this post, I break down the core concepts, training methods, and results of a new retriever that&amp;rsquo;s trained to follow natural language instructions.</description>
     </item>
   </channel>
 </rss>

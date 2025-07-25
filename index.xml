@@ -10,11 +10,11 @@
     <lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mookjsi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Paper Review: Promptriever - Instruction-Trained Retrievers</title>
+      <title>Promptriever - Instruction-Trained Retrievers</title>
       <link>https://mookjsi.github.io/posts/paper-review-promptriever/</link>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-promptriever/</guid>
-      <description>Here&amp;rsquo;s my full 35-slide review of the ICLR 2025 paper, Promptriever. In this post, I break down the core concepts, training methods, and results of a new retriever that&amp;rsquo;s trained to follow natural language instructions.</description>
+      <description>A review of the ICLR 2025 paper, Promptriever. In this post, I break down the core concepts, training methods, and results of a new retriever that&amp;rsquo;s trained to follow natural language instructions.</description>
     </item>
     <item>
       <title>About Me</title>
