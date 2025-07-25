@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on MookLab</title>
+    <title>Categories on MookStudy</title>
     <link>https://mookjsi.github.io/categories/</link>
-    <description>Recent content in Categories on MookLab</description>
+    <description>Recent content in Categories on MookStudy</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
     <copyright>2025 Jungmook Kang</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mookjsi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Syntax</title>
-      <link>https://mookjsi.github.io/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://mookjsi.github.io/categories/syntax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Themes</title>
-      <link>https://mookjsi.github.io/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://mookjsi.github.io/categories/themes/</guid>
+      <title>ICLR 2025</title>
+      <link>https://mookjsi.github.io/categories/iclr-2025/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/categories/iclr-2025/</guid>
       <description></description>
     </item>
   </channel>
