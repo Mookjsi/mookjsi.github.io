@@ -2,34 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mookjsi.github.io/</loc>
-    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mookjsi.github.io/posts/</loc>
-    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mookjsi.github.io/tags/</loc>
-    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+    <loc>https://mookjsi.github.io/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/posts/my-first-post/</loc>
-    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mookjsi.github.io/tags/%EC%8B%9C%EC%9E%91/</loc>
-    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+    <loc>https://mookjsi.github.io/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mookjsi.github.io/tags/%EC%9E%A1%EB%8B%B4/</loc>
-    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+    <loc>https://mookjsi.github.io/posts/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/about/</loc>
   </url><url>
-    <loc>https://mookjsi.github.io/archives.fr/</loc>
-  </url><url>
-    <loc>https://mookjsi.github.io/archives/</loc>
-  </url><url>
     <loc>https://mookjsi.github.io/categories/</loc>
-  </url><url>
-    <loc>https://mookjsi.github.io/search/</loc>
-  </url><url>
-    <loc>https://mookjsi.github.io/search.fr/</loc>
   </url>
 </urlset>
