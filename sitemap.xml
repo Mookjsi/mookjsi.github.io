@@ -8,6 +8,18 @@
     <loc>https://mookjsi.github.io/posts/</loc>
     <lastmod>2025-07-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://mookjsi.github.io/tags/</loc>
+    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/posts/my-first-post/</loc>
+    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/%EC%8B%9C%EC%9E%91/</loc>
+    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/%EC%9E%A1%EB%8B%B4/</loc>
+    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mookjsi.github.io/about/</loc>
   </url><url>
     <loc>https://mookjsi.github.io/archives.fr/</loc>
@@ -19,7 +31,5 @@
     <loc>https://mookjsi.github.io/search/</loc>
   </url><url>
     <loc>https://mookjsi.github.io/search.fr/</loc>
-  </url><url>
-    <loc>https://mookjsi.github.io/tags/</loc>
   </url>
 </urlset>
