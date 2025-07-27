@@ -16,5 +16,12 @@
       <guid>https://mookjsi.github.io/posts/paper-review-promptriever/</guid>
       <description>A review of the ICLR 2025 paper, Promptriever. In this post, I break down the core concepts, training methods, and results of a new retriever that&amp;rsquo;s trained to follow natural language instructions.</description>
     </item>
+    <item>
+      <title>Simplifying Neural Nets by Discovering Flat Minima</title>
+      <link>https://mookjsi.github.io/posts/paper-review-flatminima/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/posts/paper-review-flatminima/</guid>
+      <description>A detailed review of the classic 1994 paper by Hochreiter &amp;amp; Schmidhuber, &amp;lsquo;Simplifying Neural Nets by Discovering Flat Minima&amp;rsquo;. In this post, I break down the core concepts, the proposed algorithm, and the experimental results that demonstrate why seeking flat minima leads to better generalization.</description>
+    </item>
   </channel>
 </rss>
