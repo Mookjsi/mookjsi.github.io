@@ -4,7 +4,7 @@
     <title>Blog on MookStudy</title>
     <link>https://mookjsi.github.io/posts/</link>
     <description>Recent content in Blog on MookStudy</description>
-    <generator>Hugo -- 0.148.1</generator>
+    <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
     <copyright>2025 Jungmook Kang</copyright>
     <lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
@@ -22,6 +22,13 @@
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-flatminima/</guid>
       <description>A detailed review of the classic 1994 paper by Hochreiter &amp;amp; Schmidhuber, &amp;lsquo;Simplifying Neural Nets by Discovering Flat Minima&amp;rsquo;. In this post, I break down the core concepts, the proposed algorithm, and the experimental results that demonstrate why seeking flat minima leads to better generalization.</description>
+    </item>
+    <item>
+      <title>Max-Margin Token Selection in Attention Mechanism</title>
+      <link>https://mookjsi.github.io/posts/paper-review-maxtoken/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/posts/paper-review-maxtoken/</guid>
+      <description>This post reviews the NeurIPS 2025 paper &amp;lsquo;Max-Margin Token Selection in Attention Mechanism.&amp;rsquo; The paper analyzes the theoretical foundations and implicit bias of the attention mechanism, explaining why attention focuses on important tokens and how this process is connected to margin maximization in SVMs.</description>
     </item>
   </channel>
 </rss>
