@@ -31,6 +31,13 @@
       <description>This post reviews the NeurIPS 2025 paper &amp;lsquo;Max-Margin Token Selection in Attention Mechanism.&amp;rsquo; The paper analyzes the theoretical foundations and implicit bias of the attention mechanism, explaining why attention focuses on important tokens and how this process is connected to margin maximization in SVMs.</description>
     </item>
     <item>
+      <title>Stochastic Approximation to Contrastive Learning</title>
+      <link>https://mookjsi.github.io/posts/paper-review-stochastic/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/posts/paper-review-stochastic/</guid>
+      <description>This post reviews &amp;lsquo;Stochastic Approximation to Contrastive Learning,&amp;rsquo; a paper submitted to ICLR 2025. While ultimately rejected, the paper proposed an interesting approach to make contrastive learning more efficient. I&amp;rsquo;ll break down its core ideas, the community&amp;rsquo;s feedback, and why it fell short.</description>
+    </item>
+    <item>
       <title>About Me</title>
       <link>https://mookjsi.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

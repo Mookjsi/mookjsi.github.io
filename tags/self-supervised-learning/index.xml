@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Self-Supervised Learning on MookStudy</title>
+    <link>https://mookjsi.github.io/tags/self-supervised-learning/</link>
+    <description>Recent content in Self-Supervised Learning on MookStudy</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <copyright>2025 Jungmook Kang</copyright>
+    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mookjsi.github.io/tags/self-supervised-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stochastic Approximation to Contrastive Learning</title>
+      <link>https://mookjsi.github.io/posts/paper-review-stochastic/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/posts/paper-review-stochastic/</guid>
+      <description>This post reviews &amp;lsquo;Stochastic Approximation to Contrastive Learning,&amp;rsquo; a paper submitted to ICLR 2025. While ultimately rejected, the paper proposed an interesting approach to make contrastive learning more efficient. I&amp;rsquo;ll break down its core ideas, the community&amp;rsquo;s feedback, and why it fell short.</description>
+    </item>
+  </channel>
+</rss>
