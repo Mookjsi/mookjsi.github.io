@@ -2,16 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mookjsi.github.io/posts/trpoppo/</loc>
-    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mookjsi.github.io/posts/</loc>
-    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/categories/</loc>
-    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/computer-vision/</loc>
+    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/categories/cvpr-2016/</loc>
+    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/cvpr-2016/</loc>
+    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/deep-learning/</loc>
+    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/image-recognition/</loc>
+    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/</loc>
+    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/paper-review/</loc>
+    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/resnet/</loc>
+    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/posts/paper-review-resnet/</loc>
+    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/</loc>
+    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/posts/trpoppo/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/tags/policy-gradient/</loc>
@@ -29,9 +56,6 @@
     <loc>https://mookjsi.github.io/tags/rlhf/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mookjsi.github.io/tags/</loc>
-    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mookjsi.github.io/tags/trpo/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,9 +68,6 @@
     <loc>https://mookjsi.github.io/tags/llm/</loc>
     <lastmod>2025-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mookjsi.github.io/tags/paper-review/</loc>
-    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mookjsi.github.io/posts/paper-review-promptriever/</loc>
     <lastmod>2025-06-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -57,9 +78,6 @@
     <lastmod>2025-06-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/categories/classic-papers/</loc>
-    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mookjsi.github.io/tags/deep-learning/</loc>
     <lastmod>2025-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/tags/generalization/</loc>

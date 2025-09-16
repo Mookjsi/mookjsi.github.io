@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Computer Vision on MookStudy</title>
+    <link>https://mookjsi.github.io/tags/computer-vision/</link>
+    <description>Recent content in Computer Vision on MookStudy</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en</language>
+    <copyright>2025 Jungmook Kang</copyright>
+    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mookjsi.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ResNet - 더 깊은 신경망을 위한 잔차 학습</title>
+      <link>https://mookjsi.github.io/posts/paper-review-resnet/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/posts/paper-review-resnet/</guid>
+      <description>CVPR 2016에서 발표된 &amp;lsquo;Deep Residual Learning for Image Recognition&amp;rsquo; 논문에 대한 심층 리뷰입니다. 이 포스트에서는 딥러닝의 &amp;lsquo;성능 저하(Degradation)&amp;rsquo; 문제를 해결한 잔차 학습(Residual Learning)의 핵심 개념, 네트워크 구조, 그리고 실험 결과를 알기 쉽게 분석합니다.</description>
+    </item>
+  </channel>
+</rss>

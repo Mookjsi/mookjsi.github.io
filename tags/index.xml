@@ -4,11 +4,53 @@
     <title>Tags on MookStudy</title>
     <link>https://mookjsi.github.io/tags/</link>
     <description>Recent content in Tags on MookStudy</description>
-    <generator>Hugo -- 0.149.0</generator>
+    <generator>Hugo -- 0.150.0</generator>
     <language>en</language>
     <copyright>2025 Jungmook Kang</copyright>
-    <lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mookjsi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Vision</title>
+      <link>https://mookjsi.github.io/tags/computer-vision/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CVPR 2016</title>
+      <link>https://mookjsi.github.io/tags/cvpr-2016/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/cvpr-2016/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep Learning</title>
+      <link>https://mookjsi.github.io/tags/deep-learning/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Image Recognition</title>
+      <link>https://mookjsi.github.io/tags/image-recognition/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/image-recognition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paper Review</title>
+      <link>https://mookjsi.github.io/tags/paper-review/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/paper-review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ResNet</title>
+      <link>https://mookjsi.github.io/tags/resnet/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/resnet/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Policy Gradient</title>
       <link>https://mookjsi.github.io/tags/policy-gradient/</link>
@@ -59,13 +101,6 @@
       <description></description>
     </item>
     <item>
-      <title>Paper Review</title>
-      <link>https://mookjsi.github.io/tags/paper-review/</link>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://mookjsi.github.io/tags/paper-review/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>RAG</title>
       <link>https://mookjsi.github.io/tags/rag/</link>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
@@ -77,13 +112,6 @@
       <link>https://mookjsi.github.io/tags/retrieval/</link>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/tags/retrieval/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Deep Learning</title>
-      <link>https://mookjsi.github.io/tags/deep-learning/</link>
-      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://mookjsi.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     <item>
