@@ -3,39 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mookjsi.github.io/posts/</loc>
-    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/categories/</loc>
-    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/categories/classic-papers/</loc>
-    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/tags/computer-vision/</loc>
-    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/deep-learning/</loc>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/detr/</loc>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/posts/paper-review-detr/</loc>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/eccv-2020/</loc>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/end-to-end/</loc>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/</loc>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/object-detection/</loc>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/paper-review/</loc>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/</loc>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/transformer/</loc>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/tags/cvpr-2016/</loc>
     <lastmod>2025-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mookjsi.github.io/tags/deep-learning/</loc>
-    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mookjsi.github.io/tags/image-recognition/</loc>
-    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mookjsi.github.io/</loc>
-    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mookjsi.github.io/tags/paper-review/</loc>
     <lastmod>2025-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/tags/resnet/</loc>
     <lastmod>2025-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/posts/paper-review-resnet/</loc>
-    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mookjsi.github.io/tags/</loc>
     <lastmod>2025-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/posts/trpoppo/</loc>
@@ -102,9 +120,6 @@
     <lastmod>2025-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/tags/neurips-2025/</loc>
-    <lastmod>2025-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mookjsi.github.io/tags/transformer/</loc>
     <lastmod>2025-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/tags/contrastive-learning/</loc>

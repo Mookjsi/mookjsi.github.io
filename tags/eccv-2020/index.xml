@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ECCV 2020 on MookStudy</title>
+    <link>https://mookjsi.github.io/tags/eccv-2020/</link>
+    <description>Recent content in ECCV 2020 on MookStudy</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en</language>
+    <copyright>2025 Jungmook Kang</copyright>
+    <lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mookjsi.github.io/tags/eccv-2020/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DETR: End-to-End Object Detection with Transformers</title>
+      <link>https://mookjsi.github.io/posts/paper-review-detr/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/posts/paper-review-detr/</guid>
+      <description>&amp;lsquo;End-to-End Object Detection with Transformers&amp;rsquo; 논문 심층 리뷰</description>
+    </item>
+  </channel>
+</rss>
