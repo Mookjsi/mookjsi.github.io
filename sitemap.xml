@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mookjsi.github.io/posts/</loc>
-    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/categories/</loc>
-    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mookjsi.github.io/categories/classic-papers/</loc>
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/tags/computer-vision/</loc>
@@ -29,13 +29,13 @@
     <loc>https://mookjsi.github.io/tags/end-to-end/</loc>
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mookjsi.github.io/</loc>
-    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mookjsi.github.io/tags/object-detection/</loc>
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/tags/paper-review/</loc>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/categories/previous-papers/</loc>
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/tags/</loc>
