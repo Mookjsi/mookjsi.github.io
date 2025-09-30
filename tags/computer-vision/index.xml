@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.150.1</generator>
     <language>en</language>
     <copyright>2025 Jungmook Kang</copyright>
-    <lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mookjsi.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Segment Anything 논문 리뷰</title>
+      <link>https://mookjsi.github.io/posts/paper-review-sam/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/posts/paper-review-sam/</guid>
+      <description>Meta AI의 &amp;lsquo;Segment Anything&amp;rsquo; 논문에 대한 심층 리뷰입니다. 이 포스트는 이미지 분할(Image Segmentation) 분야에 &amp;lsquo;파운데이션 모델&amp;rsquo;이라는 새로운 패러다임을 제시한 SAM(Segment Anything Model)의 핵심 개념, 즉 프롬프트 기반 분할 과업, 효율적인 모델 구조, 그리고 11억 개의 마스크를 포함하는 SA-1B 데이터셋 구축을 위한 데이터 엔진에 대해 상세히 분석합니다.</description>
+    </item>
     <item>
       <title>DETR: End-to-End Object Detection with Transformers</title>
       <link>https://mookjsi.github.io/posts/paper-review-detr/</link>

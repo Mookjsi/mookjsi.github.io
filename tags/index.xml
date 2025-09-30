@@ -7,20 +7,62 @@
     <generator>Hugo -- 0.150.1</generator>
     <language>en</language>
     <copyright>2025 Jungmook Kang</copyright>
-    <lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mookjsi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer Vision</title>
       <link>https://mookjsi.github.io/tags/computer-vision/</link>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/tags/computer-vision/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep Learning</title>
       <link>https://mookjsi.github.io/tags/deep-learning/</link>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Foundation Model</title>
+      <link>https://mookjsi.github.io/tags/foundation-model/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/foundation-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ICCV 2023</title>
+      <link>https://mookjsi.github.io/tags/iccv-2023/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/iccv-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Image Segmentation</title>
+      <link>https://mookjsi.github.io/tags/image-segmentation/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/image-segmentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paper Review</title>
+      <link>https://mookjsi.github.io/tags/paper-review/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/paper-review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SA-1B</title>
+      <link>https://mookjsi.github.io/tags/sa-1b/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/sa-1b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SAM</title>
+      <link>https://mookjsi.github.io/tags/sam/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/sam/</guid>
       <description></description>
     </item>
     <item>
@@ -49,13 +91,6 @@
       <link>https://mookjsi.github.io/tags/object-detection/</link>
       <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/tags/object-detection/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Paper Review</title>
-      <link>https://mookjsi.github.io/tags/paper-review/</link>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://mookjsi.github.io/tags/paper-review/</guid>
       <description></description>
     </item>
     <item>

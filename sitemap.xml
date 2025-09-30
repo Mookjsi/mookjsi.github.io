@@ -3,19 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mookjsi.github.io/posts/</loc>
-    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mookjsi.github.io/</loc>
-    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/categories/</loc>
-    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/tags/computer-vision/</loc>
-    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/tags/deep-learning/</loc>
-    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/foundation-model/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/iccv-2023/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/image-segmentation/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/paper-review/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/categories/previous-papers/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/sa-1b/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/sam/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/posts/paper-review-sam/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mookjsi.github.io/tags/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/tags/detr/</loc>
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
@@ -30,15 +57,6 @@
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/tags/object-detection/</loc>
-    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mookjsi.github.io/tags/paper-review/</loc>
-    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mookjsi.github.io/categories/previous-papers/</loc>
-    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mookjsi.github.io/tags/</loc>
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mookjsi.github.io/tags/transformer/</loc>
