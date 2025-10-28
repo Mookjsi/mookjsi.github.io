@@ -4,23 +4,58 @@
     <title>Tags on MookStudy</title>
     <link>https://mookjsi.github.io/tags/</link>
     <description>Recent content in Tags on MookStudy</description>
-    <generator>Hugo -- 0.150.1</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <copyright>2025 Jungmook Kang</copyright>
-    <lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mookjsi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer Vision</title>
       <link>https://mookjsi.github.io/tags/computer-vision/</link>
-      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contrastive Learning</title>
+      <link>https://mookjsi.github.io/tags/contrastive-learning/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/contrastive-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep Learning</title>
       <link>https://mookjsi.github.io/tags/deep-learning/</link>
-      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ICML 2020</title>
+      <link>https://mookjsi.github.io/tags/icml-2020/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/icml-2020/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paper Review</title>
+      <link>https://mookjsi.github.io/tags/paper-review/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/paper-review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Supervised Learning</title>
+      <link>https://mookjsi.github.io/tags/self-supervised-learning/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/self-supervised-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SimCLR</title>
+      <link>https://mookjsi.github.io/tags/simclr/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/simclr/</guid>
       <description></description>
     </item>
     <item>
@@ -42,13 +77,6 @@
       <link>https://mookjsi.github.io/tags/image-segmentation/</link>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/tags/image-segmentation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Paper Review</title>
-      <link>https://mookjsi.github.io/tags/paper-review/</link>
-      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://mookjsi.github.io/tags/paper-review/</guid>
       <description></description>
     </item>
     <item>
@@ -224,20 +252,6 @@
       <link>https://mookjsi.github.io/tags/neurips-2025/</link>
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/tags/neurips-2025/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Contrastive Learning</title>
-      <link>https://mookjsi.github.io/tags/contrastive-learning/</link>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://mookjsi.github.io/tags/contrastive-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Self-Supervised Learning</title>
-      <link>https://mookjsi.github.io/tags/self-supervised-learning/</link>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://mookjsi.github.io/tags/self-supervised-learning/</guid>
       <description></description>
     </item>
     <item>
