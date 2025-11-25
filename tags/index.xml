@@ -10,6 +10,13 @@
     <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mookjsi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>DDPM</title>
+      <link>https://mookjsi.github.io/tags/ddpm/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/ddpm/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Deep Learning</title>
       <link>https://mookjsi.github.io/tags/deep-learning/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
@@ -21,6 +28,13 @@
       <link>https://mookjsi.github.io/tags/deepmind/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/tags/deepmind/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diffusion Models</title>
+      <link>https://mookjsi.github.io/tags/diffusion-models/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/diffusion-models/</guid>
       <description></description>
     </item>
     <item>
@@ -38,6 +52,20 @@
       <description></description>
     </item>
     <item>
+      <title>Generative Models</title>
+      <link>https://mookjsi.github.io/tags/generative-models/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/generative-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Math</title>
+      <link>https://mookjsi.github.io/tags/math/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/math/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Multimodal</title>
       <link>https://mookjsi.github.io/tags/multimodal/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
@@ -52,6 +80,13 @@
       <description></description>
     </item>
     <item>
+      <title>VAE</title>
+      <link>https://mookjsi.github.io/tags/vae/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/tags/vae/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Vision-Language Models</title>
       <link>https://mookjsi.github.io/tags/vision-language-models/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
@@ -63,13 +98,6 @@
       <link>https://mookjsi.github.io/tags/gan/</link>
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/tags/gan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Generative Models</title>
-      <link>https://mookjsi.github.io/tags/generative-models/</link>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://mookjsi.github.io/tags/generative-models/</guid>
       <description></description>
     </item>
     <item>

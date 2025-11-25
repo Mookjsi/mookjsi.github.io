@@ -10,6 +10,13 @@
     <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mookjsi.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Diffusion Models: From VAEs to DDPM Derivation</title>
+      <link>https://mookjsi.github.io/posts/diffusion/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/posts/diffusion/</guid>
+      <description>A comprehensive breakdown of Diffusion Models, starting from the limitations of Hierarchical VAEs, covering the thermodynamics inspiration, and detailing the full mathematical derivation of the ELBO and the simplified noise-prediction loss used in DDPM. This post is based on a presentation I gave at a YBIGTA (Big data society in Yonsei) session.</description>
+    </item>
+    <item>
       <title>Flamingo: a Visual Language Model for Few-Shot Learning</title>
       <link>https://mookjsi.github.io/posts/paper-review-flamingo/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
