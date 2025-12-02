@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>3D Gaussian Splatting on MookStudy</title>
+    <link>https://mookjsi.github.io/tags/3d-gaussian-splatting/</link>
+    <description>Recent content in 3D Gaussian Splatting on MookStudy</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <copyright>2025 Jungmook Kang</copyright>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mookjsi.github.io/tags/3d-gaussian-splatting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TimeFormer: Capturing Temporal Relationships of Deformable 3D Gaussians for Robust Reconstruction</title>
+      <link>https://mookjsi.github.io/posts/paper-review-timeformer/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/posts/paper-review-timeformer/</guid>
+      <description>TimeFormer 논문 리뷰입니다. 이 논문은 시간적 관계(Temporal Relationships)를 학습하여 기존 3DGS의 한계를 극복하고, 추론 비용 증가 없이 고품질 렌더링을 가능하게 하는 새로운 방법론을 제안합니다.</description>
+    </item>
+  </channel>
+</rss>
