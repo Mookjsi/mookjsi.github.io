@@ -4,7 +4,7 @@
     <title>MookStudy</title>
     <link>https://mookjsi.github.io/</link>
     <description>Recent content on MookStudy</description>
-    <generator>Hugo -- 0.153.2</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>en</language>
     <copyright>2025 Jungmook Kang</copyright>
     <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
@@ -131,16 +131,6 @@
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Statistical Machine Learning&lt;/li&gt;
-&lt;li&gt;Explainable AI&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;research-experience&#34;&gt;Research Experience&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Undergraduate Researcher&lt;/strong&gt;, ITML @ Yonsei (Jan. 2025 – Jun. 2025)
-&lt;ul&gt;
-&lt;li&gt;Conducting undergraduate research under the supervision of Prof. Jy-yong Sohn.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
   </channel>
