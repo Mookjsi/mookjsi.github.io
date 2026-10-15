@@ -4,7 +4,7 @@
     <title>Jungmook Kang</title>
     <link>https://mookjsi.github.io/</link>
     <description>Recent content on Jungmook Kang</description>
-    <generator>Hugo -- 0.166.0</generator>
+    <generator>Hugo -- 0.168.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 03 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mookjsi.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -98,6 +98,13 @@
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-maxtoken/</guid>
       <description>04/30 ITML Lab Meeting</description>
+    </item>
+    <item>
+      <title>Transformer: Attention부터 BERT까지</title>
+      <link>https://mookjsi.github.io/posts/transformer/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/posts/transformer/</guid>
+      <description>YBIGTA 04/01 DS Session Presentation. Attention, Transformer, and BERT step-by-step.</description>
     </item>
     <item>
       <title>Stochastic Approximation to Contrastive Learning</title>

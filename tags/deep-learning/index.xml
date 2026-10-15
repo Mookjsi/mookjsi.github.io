@@ -4,7 +4,7 @@
     <title>Deep Learning on Jungmook Kang</title>
     <link>https://mookjsi.github.io/tags/deep-learning/</link>
     <description>Recent content in Deep Learning on Jungmook Kang</description>
-    <generator>Hugo -- 0.166.0</generator>
+    <generator>Hugo -- 0.168.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mookjsi.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
@@ -63,6 +63,13 @@
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
       <guid>https://mookjsi.github.io/posts/paper-review-flatminima/</guid>
       <description>05/15 ITML Lab meeting</description>
+    </item>
+    <item>
+      <title>Transformer: Attention부터 BERT까지</title>
+      <link>https://mookjsi.github.io/posts/transformer/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://mookjsi.github.io/posts/transformer/</guid>
+      <description>YBIGTA 04/01 DS Session Presentation. Attention, Transformer, and BERT step-by-step.</description>
     </item>
   </channel>
 </rss>
